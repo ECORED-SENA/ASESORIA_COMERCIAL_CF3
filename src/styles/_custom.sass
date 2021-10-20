@@ -14,8 +14,8 @@
   h1
     color: $color-secundario !important
 
-.BG10
-  background-color: transparentize($color-primario, 0.7) !important
+.BG10, .bloque-texto-a.color-primario::before, .bloque-texto-b.color-primario::before, .cajon.color-primario, .bloque-texto-f.color-secundario::before
+  background-color:  lighten($color-primario, 30%) !important
 
 .BG20
   background-color: transparentize($color-secundario, 0.8) !important
@@ -37,3 +37,13 @@
 
 .br01
   border-radius: 16px
+
+.bloque-texto-a.color-primario
+  background-color: $color-primario !important
+
+.bloque-texto-b i, .bloque-texto-f__comillas i
+  color: $color-acento-botones
+
+.tarjeta-flip__img 
+  background-size: contain
+  background-repeat: no-repeat
