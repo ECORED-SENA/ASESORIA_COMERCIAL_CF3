@@ -43,10 +43,10 @@
     #t1_2.titulo-segundo
       h2 1.2 Importancia de la información
     
-    p.mb-5 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
+    p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
 
     .row.mb-5
-      .col-lg-6
+      .col-lg-6.mb-4.mb-md-0
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left

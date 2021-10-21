@@ -6,7 +6,10 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 Procesos de la Cadena de Suministro o #[i Supply Chain]
+      h1 Técnicas de evaluación
+    
+    p.mb-5 Bernal (2.000) muestra las siguientes técnicas de evaluación de la información que pueden efectuarse:
+
   
 </template>
 
