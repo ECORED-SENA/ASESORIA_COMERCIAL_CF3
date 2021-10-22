@@ -179,15 +179,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Bernal T cesar Augusto. (2.003) Metodología de la investigación aplicada para administración y economía. Editorial Prentice Hill.',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Big Data Internacional Campus (2.020). Data mining vs Big data. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.campusbigdata.com/big-data-blog/item/82-data-mining-vs-big-data',
     },
     {
       referencia:
@@ -195,125 +193,192 @@ export default {
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA ',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
     },
     {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+      referencia: 'Conceptos. (2018). Minería de datos. ',
+      link: 'https://mineriadedatos1.blogspot.com/2018/10/conceptos.html',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Conesa Caralt Jordi, Curto Diaz Josep. (2010). Introducción al Bussines Intelligence. Editorial UOC.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Dertiano Victor. (2014). ¿Qué es Business Intelligence? Beneficios del BI. ',
+      link: 'https://blog.bi-geek.com/que-es-business-intelligence-beneficios/',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Espinoza Freire, Eudaldo. (2018). Las variables y su operacionalización en la investigación educativa. Scielo. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039',
+    },
+    {
+      referencia:
+        'Fernández Jorge. (2016). Investigación Cualitativa Vs Investigación Cuantitativa. Investigación y docencia ',
+      link:
+        'https://www.investigacion360.com/2017/02/investigacion-cualitativa-vs-investigacion-cuantitativa.html',
+    },
+    {
+      referencia: 'Florencia. (2013). Importancia de la información. ',
+      link: 'https://www.importancia.org/informacion.php',
+    },
+    {
+      referencia: 'Grupo 10. (2015). Tipos de gráficas de control. ',
+      link:
+        'http://grupo10direccion.blogspot.com/2015/06/tipos-de-graficas-de-control-1.html',
+    },
+    {
+      referencia:
+        'Hernández Macario. (2008). El control estadístico del proceso. ',
+      link:
+        'https://optyestadistica.wordpress.com/2008/06/11/el-control-estadistico-de-proceso-3-de-3/',
+    },
+    {
+      referencia:
+        'Hernández Noelia. (2019). Esto es lo que puede hacer la Inteligencia Artificial por la educación. Educación 3.0 ',
+      link:
+        'https://www.educaciontrespuntocero.com/noticias/inteligencia-artificial-en-educacion/',
+    },
+    {
+      referencia:
+        'Hidalgo Nuchera Antonio, León Serrano Gonzalo, Pavon Morote Julián. (2013). la gestión de la innovación y la tecnología en las organizaciones. Editorial Pirámide.',
+    },
+    {
+      referencia: 'Khan academy. (2018) Polígonos de frecuencia. ',
+      link:
+        'https://es.khanacademy.org/math/2-secundaria-pe/xf4e5558599a475b6:probabilidad-y-estadistica-2sec/xf4e5558599a475b6:preguntas-estadisticas-representacion-de-datos-a-traves-de-histogramas-y-poligonos-de-frecuencia/a/81817-artculo-polgonos-de-frecuencia',
+    },
+    {
+      referencia:
+        'Higuita David. (2016). Analítica y productividad aplicada al ruteo de vehículos. ',
+      link:
+        'https://www.grupobancolombia.com/wps/portal/empresas/capital-inteligente/entorno-empresarial/tendencias/analitica-y-productividad',
+    },
+    {
+      referencia:
+        'IBM. (2007). Análisis de causa raíz: el diagrama de espina de pescado. ',
+      link:
+        'https://managing-ils-reporting.itcilo.org/es/herramientas/analisis-de-causa-raiz-el-diagrama-de-espina-de-pescado',
+    },
+    {
+      referencia:
+        'Lam Diaz Rosa. (2016).  La redacción de un artículo científico. ',
+      link:
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0864-02892016000100006',
+    },
+    {
+      referencia: 'Marques Fidel. (2017). Datos, información y conocimiento. ',
+      link:
+        'https://facturin-bi.inftel.com.mx/index.php/conocimiento/datos-informacion-conocimiento',
+    },
+    {
+      referencia: 'Marta. (2019). ¿Qué es un Histograma?  Super prof ',
+      link:
+        'https://www.superprof.es/apuntes/escolar/matematicas/estadistica/descriptiva/histograma.html',
+    },
+    {
+      referencia:
+        'Lind Douglas A, Marchal William E, Wathen Samuel A. (2.008). Estadística aplicada a los negocios y la economía. MC Graw Hill Interamericana.',
+    },
+    {
+      referencia: 'Marcondes José. (2020). Diagrama ou grafico de Pareto. ',
+      link:
+        'https://gestaodesegurancaprivada.com.br/diagrama-ou-grafico-de-pareto-conceito/',
+    },
+    {
+      referencia:
+        'Pulido Raúl. (2018).   Como iniciarse en el Big Data y el Análisis de Datos y no morir en el intento: La limpieza de datos. Puentes digitales ',
+      link:
+        'https://puentesdigitales.com/2018/02/09/como-iniciarse-en-el-big-data-y-el-analisis-de-datos-y-no-morir-en-el-intento-la-limpieza-de-datos/',
+    },
+    {
+      referencia:
+        'Quality Leadership University. (2020). Ejemplos de antecedentes de un anteproyecto ',
+      link: 'https://qlu.ac.pa/ejemplos-antecedentes-anteproyecto/',
+    },
+    {
+      referencia: 'Questionpro. (2021). ¿Qué es el análisis descriptivo? ',
+      link: 'https://www.questionpro.com/blog/es/analisis-descriptivo/',
+    },
+    {
+      referencia:
+        'Rodal Montero Enrique, 2.020, Industrias 4.0. Editorial Pirámide.',
+    },
+    {
+      referencia:
+        'SAS. (2021). minería de datos, ¿Qué es y porqué es importante? ',
+      link: 'https://www.sas.com/es_co/insights/analytics/data-mining.html',
+    },
+    {
+      referencia:
+        'Temas de enfermería. (2012). La media aritmética en medidas de tendencia central. ',
+      link:
+        'https://temasdeenfermeria.com.ar/2012/06/la-media-aritmetica-en-medidas-de-tendencia-central/',
+    },
+    {
+      referencia:
+        'Samperi Hernández Roberto, 2.006, Metodología de la investigación. Editorial Mc Graw Hill',
+    },
+    {
+      referencia:
+        'Suarez R. Pedro Alejandro, 2.001, Metodología de la investigación diseños y técnicas. Orión editores.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Base de datos',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'las bases de datos son una herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica totalidad de campos como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Encuesta',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'las encuestas son un método de investigación y recopilación de datos utilizados para obtener información a un grupo de individuos sobre diversos temas',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Entrevista',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'la entrevista es una charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Observación',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+      texto: 'Pérez, J. (2008) concepto de información.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link: 'https://definicion.de/informacion/',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
+        'Questionpro (2021) cuales son los tipos de variables de la información',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link:
+        'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Espinoza F. (2018). Las variables y su operacionalización en la investigación educativa. Scielo.',
+      tipo: 'Página web',
+      link: 'http://www.scielo.org.pe/pdf/biblios/n75/a05n75.pdf',
+    },
+    {
+      texto: 'Universidad del sur.(2.018), Análisis de datos',
+      tipo: 'Página web',
+      link:
+        'https://sites.google.com/site/tecnicasdeinvestigaciond38/metodos-estadisticos/1-1-analisis-de-datos',
+    },
+    {
+      texto: 'Equipo editorial etece. (2021) Concepto, informes',
+      tipo: 'Página web',
+      link: 'https://concepto.de/informe/',
     },
   ],
   creditos: {
@@ -345,13 +410,13 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Carlo Julián Ramírez Benítez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
