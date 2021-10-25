@@ -188,16 +188,6 @@ export default {
         'https://www.campusbigdata.com/big-data-blog/item/82-data-mining-vs-big-data',
     },
     {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
       referencia: 'Conceptos. (2018). Minería de datos. ',
       link: 'https://mineriadedatos1.blogspot.com/2018/10/conceptos.html',
     },
@@ -394,7 +384,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laureano E. Ruidiaz Polo',
+        cargo: 'Instructor grado 16',
+        centro: 'Centro de Comercio y Servicios - Regional Bolívar',
+      },
+      {
+        nombre: 'Zenith Chinchilla Ruedas',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora Metodológica y Pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -402,43 +413,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Carlo Julián Ramírez Benítez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

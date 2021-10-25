@@ -10,7 +10,7 @@
     
     p.mb-5 Bernal (2.000) muestra las siguientes técnicas de evaluación de la información que pueden efectuarse:
 
-    .tarjeta.tarjeta--azul.p-4.mb-5
+    .tarjeta.tarjeta--azul.BGYenny.p-4.mb-5
       SlyderA
         .row.justify-content-center.m-4
           .col-md-11
@@ -19,7 +19,8 @@
                 .col-md-9
                   figure
                     img(src='@/assets/curso/tema5/img01.svg', alt='')
-            
+                    figcaption.mt-2 Nota: Adaptada de Jose Marcondes (2.020)
+
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
                 .col-md-12
@@ -46,7 +47,8 @@
                 .col-md-10
                   figure
                     img(src='@/assets/curso/tema5/img02.svg', alt='')
-            
+                    figcaption.mt-2 Nota: Adaptada de IBM (2.007)
+
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
                 .col-md-12
@@ -60,6 +62,7 @@
                 .col-md-10
                   figure
                     img(src='@/assets/curso/tema5/img03.svg', alt='')
+                    figcaption.mt-2 Nota: Adaptada de Grupo 10 (2.015)
             
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
@@ -84,7 +87,8 @@
                 .col-md-10
                   figure
                     img(src='@/assets/curso/tema5/img04.svg', alt='')
-            
+                    figcaption.mt-2 Nota: Adaptada de Marta (2.019)
+
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
                 .col-md-12
@@ -92,8 +96,10 @@
                   p de acuerdo con Mason y Lind (1994) es el conjunto de datos en categorías que muestran el número de observaciones de cada categoría, en otras palabras, una distribución de frecuencias indica el número de veces que ocurre cada valor o dato en una tabla de resultados. (p.24)
                   p Histogramas son medios gráficos para la representación de la distribución de frecuencias
                   p.mb-4 Polígonos de frecuencia son representaciones gráficas que reflejan  una imagen veloz de los más importantes rasgos de los datos de una distribución de frecuencias.
+                .col-md-10
                   figure
                     img(src='@/assets/curso/tema5/img05.svg', alt='')
+                    figcaption.mt-2 Nota: Adaptada de Khan Academy (2.018)
         
         .row.justify-content-center.m-4
           .col-md-11
@@ -102,6 +108,7 @@
                 .col-md-10
                   figure
                     img(src='@/assets/curso/tema5/img06.svg', alt='')
+                    figcaption.mt-2 Nota: Adaptada de estudiar física.wordpress (2.009)
             
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
@@ -127,6 +134,7 @@
                 .col-md-10
                   figure
                     img(src='@/assets/curso/tema5/img07.svg', alt='')
+                    figcaption.mt-2 Nota: Adaptada de matemáticas con tecnología.
             
             .bg-white.br01.p-4
               .row.justify-content-center.m-4

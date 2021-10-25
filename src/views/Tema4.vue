@@ -89,14 +89,26 @@
     
     p.mb-4 Las técnicas de análisis de datos se definen como el proceso de explorar los datos  metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
 
-    .tarjeta.tarjeta--gris.p-4.mb-5
+    .tarjeta.tarjeta--azul.BGYenny02.p-4.mb-5
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center(titulo="Minería de datos")
           .col-12.mb-4
-            p Aprendizaje  automático es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el Machine Learning (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos)          
-          .col-md-10
+            p Es definida como el proceso de encontrar singularidades, elementos comunes y correspondencias en grandes agregados de datos para augurar conclusiones, empleando una amplia variedad de técnicas.  En conformidad con la web page de SAS la minería de datos le permite:
+            ul.lista-ul--color
+              li
+                i.fas.fa-check
+                | Filtrar todo el ruido caótico y repetitivo en sus datos. (datos que se repiten)
+              li
+                i.fas.fa-check
+                | Entender qué es relevante y luego hacer un buen uso de esa información para evaluar resultados probables. (datos significativos)
+              li
+                i.fas.fa-check
+                | Acelerar el ritmo de la toma de decisiones informadas.
+            p.mb-0 La minería de datos tiene seis fases: comprensión del negocio, comprensión de los datos, preparación de datos, modelado, evaluación y despliegue.
+          .col-md-9
             figure
               img(src='@/assets/curso/tema4/img06.png', alt='')
+              figcaption Nota: Adaptada de conceptos (2.018)
         
         .row.justify-content-center(titulo="Business intelligence")
           .col-12.mb-4
@@ -104,13 +116,15 @@
           .col-md-10
             figure
               img(src='@/assets/curso/tema4/img07.png', alt='')
+              figcaption Nota: Adaptada de Victor Dertiano (2.014)
         
         .row.justify-content-center(titulo="Aprendizaje  automático")
           .col-12.mb-4
             p Aprendizaje  automático es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el Machine Learning (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).     
-          .col-md-10
+          .col-md-8
             figure
               img(src='@/assets/curso/tema4/img08.png', alt='')
+              figcaption Nota: Adaptada de Noelia Hernandez (2.019)
         
         .row.justify-content-center(titulo="Análisis del Big Data")
           .col-12.mb-4
@@ -119,9 +133,10 @@
               br
               br
               | Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.    
-          .col-md-10
+          .col-md-7
             figure
-              img(src='@/assets/curso/tema4/img09.png', alt='')
+              img.mb-1(src='@/assets/curso/tema4/img09.png', alt='')
+              figcaption Nota: Adaptada de Raul Pulido (2.018)
     
     .cajon-b.color-acento-contenido.p-3.mb-0
       p.mb-4 Para Big Data Internacional Campus (2.020) Data mining es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El data mining reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.

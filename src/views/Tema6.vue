@@ -35,20 +35,7 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       div(titulo="Según el contenido")
-        p.mb-4 Se pueden encontrar 3 grandes tipos de informes de acuerdo con la especificidad del contenido del informe.
-        ul.lista-ul--color
-          li
-            i.fas.fa-check
-            p #[strong Informes persuasivos:] tienen como finalidad convencer a los lectores de las conclusiones e ideas desarrolladas en el proceso de trabajo.
-          li
-            i.fas.fa-check
-            p #[strong Informes expositivos:] es una cadena de hechos relatada sin análisis e interpretaciones del autor, debe contener referencias que ayuden a comprender lo que se narra.
-          li
-            i.fas.fa-check
-            p #[strong Informe analítico:]  es un tipo de informe o evaluación de un conjunto particular de circunstancias relacionadas con el efecto que producen, por lo tanto, determinan y desarrollan las causas de un hecho o fenómeno.
-
-      div(titulo="Según la estructura")
-        p.mb-4 Se destacan con preeminencia 3 tipos de informes
+        p.mb-4  Se pueden encontrar 3 grandes tipos de informes de acuerdo con la especificidad del contenido del informe.
         ul.lista-ul--color
           li
             i.fas.fa-check
@@ -59,6 +46,20 @@
           li
             i.fas.fa-check
             p #[strong Informes de divulgación:] es un escrito generalmente breve, que puede explicar hechos, ideas, conceptos, descubrimientos vinculados al quehacer científico y tecnológico.
+
+      div(titulo="Según la estructura")
+        p.mb-4 Se destacan con preeminencia 3 tipos de informes.
+        ul.lista-ul--color
+          li
+            i.fas.fa-check
+            p #[strong Informes persuasivos:] tienen como finalidad convencer a los lectores de las conclusiones e ideas desarrolladas en el proceso de trabajo.
+          li
+            i.fas.fa-check
+            p #[strong Informes expositivos:] es una cadena de hechos relatada sin análisis e interpretaciones del autor, debe contener referencias que ayuden a comprender lo que se narra.
+          li
+            i.fas.fa-check
+            p #[strong Informe analítico:]  es un tipo de informe o evaluación de un conjunto particular de circunstancias relacionadas con el efecto que producen, por lo tanto, determinan y desarrollan las causas de un hecho o fenómeno.
+        
   
 </template>
 

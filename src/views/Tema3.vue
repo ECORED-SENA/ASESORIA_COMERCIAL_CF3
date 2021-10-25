@@ -31,7 +31,7 @@
     TabsA.color-acento-contenido
       .tarjeta.color-primario.BG10.p-4(titulo="Recogida de los datos")
         h4 Recogida de los datos
-        p esta parte del procesamiento de la información requiere previamente haber perfilado los instrumentos de recolección que hayan sido validados y que generen confiabilidad.  La recolección de datos se realiza siguiendo tres (3) pasos:
+        p Esta parte del procesamiento de la información requiere previamente haber perfilado los instrumentos de recolección que hayan sido validados y que generen confiabilidad.  La recolección de datos se realiza siguiendo tres (3) pasos:
         ul.lista-ul--color.mb-4.CT10
           li
             i.fas.fa-check

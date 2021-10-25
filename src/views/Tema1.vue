@@ -58,7 +58,7 @@
         figure.px-4
           img(src='@/assets/curso/tema1/img03.svg', alt='')
 
-    .cajon.color-primario.p-4.mb-5
+    .cajon.color-primario.BGYenny.p-4.mb-5
       p Entonces, la información es necesaria y vital en muchos aspectos de la vida personal y profesional, y en los tiempos presentes se le atribuye a la misma una especial valoración en diversos contextos ya que sin duda alguna en la actualidad la humanidad está atravesando la era de la información.
     
     #t1_3.titulo-segundo
