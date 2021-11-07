@@ -107,15 +107,15 @@
             p.mb-0 La minería de datos tiene seis fases: comprensión del negocio, comprensión de los datos, preparación de datos, modelado, evaluación y despliegue.
           .col-md-9
             figure
-              img(src='@/assets/curso/tema4/img06.png', alt='')
+              img(src='@/assets/curso/tema4/img06.svg', alt='')
               figcaption Nota: Adaptada de conceptos (2.018)
         
         .row.justify-content-center(titulo="Business intelligence")
           .col-12.mb-4
             p Business intelligence se conceptúa al conjunto de metodologías, aplicaciones, prácticas y capacidades enfocadas a la creación y administración de información que permite tomar mejores decisiones a los usuarios de una organización (Conesa y Curto, 2010, p18). Estas acciones pueden ser procesos, técnicas, metodologías, herramientas y tecnologías que generan información para que sirva de base para la toma de decisiones. En otras palabras la inteligencia de negocios o business intelligence (BI), mezcla lo más profundo del análisis de negocios con el trabajo del big data y la minería de datos, para obtener la información más expedita que  permita la mejor decisión posible en los escenarios posibles, minimizando siempre de esta forma los riesgos posibles.
-          .col-md-10
+          .col-md-9
             figure
-              img(src='@/assets/curso/tema4/img07.png', alt='')
+              img(src='@/assets/curso/tema4/img07.svg', alt='')
               figcaption Nota: Adaptada de Victor Dertiano (2.014)
         
         .row.justify-content-center(titulo="Aprendizaje  automático")
@@ -123,19 +123,19 @@
             p Aprendizaje  automático es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el Machine Learning (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).     
           .col-md-8
             figure
-              img(src='@/assets/curso/tema4/img08.png', alt='')
+              img(src='@/assets/curso/tema4/img08.svg', alt='')
               figcaption Nota: Adaptada de Noelia Hernandez (2.019)
         
         .row.justify-content-center(titulo="Análisis del Big Data")
-          .col-12.mb-4
+          .col-12.mb-3
             p
               | Análisis del Big Data,  el análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (big data) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2.020) define la “analítica de Big Data como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de software tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65)
               br
               br
               | Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.    
-          .col-md-7
+          .col-md-8
             figure
-              img.mb-1(src='@/assets/curso/tema4/img09.png', alt='')
+              img.mb-1(src='@/assets/curso/tema4/img09.svg', alt='')
               figcaption Nota: Adaptada de Raul Pulido (2.018)
     
     .cajon-b.color-acento-contenido.p-3.mb-0
