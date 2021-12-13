@@ -8,14 +8,14 @@
         span 4
       h1 Análisis de datos
     
-    p.mb-5 El análisis de datos es el proceso de examinar conjuntos de datos para encontrar tendencias y sacar conclusiones sobre la información que contienen; en la investigación cuantitativa apela a técnicas de cálculo de variables y  a la estadística como técnica específica en la ordenación y la exégesis de datos cuantitativos o cualitativos.
+    p.mb-5(data-aos="fade-up") El análisis de datos es el proceso de examinar conjuntos de datos para encontrar tendencias y sacar conclusiones sobre la información que contienen; en la investigación cuantitativa apela a técnicas de cálculo de variables y  a la estadística como técnica específica en la ordenación y la exégesis de datos cuantitativos o cualitativos.
 
-    #t4_1.titulo-segundo
+    #t4_1.titulo-segundo(data-aos="flip-up")
       h2 4.1 Antecedentes
     
-    p.mb-4 Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La web page de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
+    p.mb-4(data-aos="fade") Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La web page de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
 
-    .row.BG30.justify-content-around.mb-5.p-4
+    .row.BG30.justify-content-around.mb-5.p-4(data-aos="fade-up")
       .col-lg-7
         .p-4          
           ul.lista-ul--color
@@ -35,39 +35,39 @@
               i.fas.fa-check
               | Metodología utilizada
 
-      .col-6.col-lg-3
+      .col-6.col-lg-3(data-aos="flip-left")
         figure.mbN01
           img(src='@/assets/curso/tema4/img01.svg', alt='')
 
-    #t4_2.titulo-segundo.mtP01
+    #t4_2.titulo-segundo.mtP01(data-aos="flip-up")
       h2 4.2 Tipos de análisis de datos
     
-    p.mb-4 Son varios los tipos de análisis de datos que se pueden realizar dependiendo de la información que se dispone, a continuación se destacan los más importantes.
+    p.mb-4(data-aos="fade") Son varios los tipos de análisis de datos que se pueden realizar dependiendo de la información que se dispone, a continuación se destacan los más importantes.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-8
         .titulo-sexto.color-acento-botones
           h5 Figura 3.
           span Tipos de análisis de datos
         .row.align-items-end
-          .col-lg-6.mb-4.mb-lg-0
+          .col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
             figure
               img.w-25.mx-auto(src='@/assets/curso/tema4/img02.svg', alt='')
-          .col-lg-6.BG10.rounded.p-4
+          .col-lg-6.BG10.rounded.p-4(data-aos="fade")
             p.mb-0 #[strong El análisis cualitativo] es un proceso mediante el cual se extraen conclusiones de datos no estructurados y heterogéneos que no son expresados de forma numérica o cuantificable, por tanto, las conclusiones lógicas del análisis están basadas en el conocimiento causal de los hechos los cuales permiten inferir los efectos.
         .row
-          .col-12.my-4
+          .col-12.my-4(data-aos="flip-left")
             figure
               img(src='@/assets/curso/tema4/img03.svg', alt='')
         .row
-          .col-lg-6.BG40.rounded.p-4.mb-4.mb-lg-0
+          .col-lg-6.BG40.rounded.p-4.mb-4.mb-lg-0(data-aos="fade")
             p.mb-0 #[strong El análisis cuantitativo] es el proceso de análisis que emplea métodos matemáticos, econométricos y estadísticos para justificar, o vaticinar futuros eventos mediante datos numéricos.
-          .col-lg-6
+          .col-lg-6(data-aos="fade-up")
             figure
               img.w-25.mx-auto(src='@/assets/curso/tema4/img04.svg', alt='')    
     
-    p.mb-5
-      strong De acuerdo con el Blogs Questionpro (2021): 
+    p.mb-5(data-aos="fade-right")
+      strong De acuerdo con el Blog Questionpro (2021): 
       | también se recurre a otros tipos de análisis entre los cuales está el análisis descriptivo, que como su nombre lo indica, consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos, está basada en la estadística descriptiva que conlleva a las medidas de tendencia central (media, mediana y moda) esta información es cotejada con las medidas de dispersión (desviación estándar y error estándar) para su validación.
       br
       br
@@ -76,7 +76,7 @@
       br
       | Por último, está el análisis prescriptivo se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa, es decir, ayuda a entender qué tenemos que hacer para obtener los resultados que queramos en el futuro.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="flip-down")
       .col-lg-10    
         .titulo-sexto.color-acento-botones
           h5 Figura 4.
@@ -84,12 +84,12 @@
         figure
           img(src='@/assets/curso/tema4/img05.svg', alt='')
     
-    #t4_3.titulo-segundo.mtP01
+    #t4_3.titulo-segundo.mtP01(data-aos="flip-up")
       h2 4.3 Técnicas  de análisis de datos
     
-    p.mb-4 Las técnicas de análisis de datos se definen como el proceso de explorar los datos  metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
+    p.mb-4(data-aos="fade") Las técnicas de análisis de datos se definen como el proceso de explorar los datos  metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
 
-    .tarjeta.tarjeta--azul.BGYenny02.p-4.mb-5
+    .tarjeta.tarjeta--azul.BGYenny02.p-4.mb-5(data-aos="flip-left")
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center(titulo="Minería de datos")
           .col-12.mb-4
@@ -139,9 +139,9 @@
               figcaption Nota: Adaptada de Raul Pulido (2.018)
     
     .cajon-b.color-acento-contenido.p-3.mb-0
-      p.mb-4 Para Big Data Internacional Campus (2.020) Data mining es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El data mining reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
+      p.mb-4(data-aos="fade-left") Para Big Data Internacional Campus (2.020) Data mining es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El data mining reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
 
-      p.mb-0 La principal diferencia entre big data y data mining (grandes datos y minería de datos) se halla en que data mining se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (big data) Ejemplificando la data mining es observar, analizar y estudiar los datos con  microscopios, mientras que el big data utilizará telescopios para observar, analizar y estudiar los datos
+      p.mb-0(data-aos="fade") La principal diferencia entre big data y data mining (grandes datos y minería de datos) se halla en que data mining se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (big data) Ejemplificando la data mining es observar, analizar y estudiar los datos con  microscopios, mientras que el big data utilizará telescopios para observar, analizar y estudiar los datos
 
   
 </template>

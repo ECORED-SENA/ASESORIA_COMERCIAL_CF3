@@ -8,7 +8,7 @@
         span 3
       h1 Procesamiento de la información
     
-    .row.BG30.justify-content-around.mb-5.p-4
+    .row.BG30.justify-content-around.mb-5.p-4(data-aos="fade-up")
       .col-lg-7
         .p-4
           h3 Es un proceso que implica:
@@ -22,13 +22,13 @@
             li
               i.fas.fa-check
               | Identificar las técnicas de recolección de la información debidamente validadas.
-      .col-6.col-lg-3
+      .col-6.col-lg-3(data-aos="flip-left")
         figure.mbN01
           img(src='@/assets/curso/tema3/img01.svg', alt='')
     
-    p.mb-4.mtP01 A continuación se muestran una cadena de pasos que pueden emplearse para la  recaudación de los datos necesarios para responder a los objetivos:
+    p.mb-4.mtP01(data-aos="fade") A continuación se muestran una cadena de pasos que pueden emplearse para la  recaudación de los datos necesarios para responder a los objetivos:
 
-    TabsA.color-acento-contenido
+    TabsA.color-acento-contenido(data-aos="fade-left")
       .tarjeta.color-primario.BG10.p-4(titulo="Recogida de los datos")
         h4 Recogida de los datos
         p Esta parte del procesamiento de la información requiere previamente haber perfilado los instrumentos de recolección que hayan sido validados y que generen confiabilidad.  La recolección de datos se realiza siguiendo tres (3) pasos:

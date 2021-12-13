@@ -9,31 +9,31 @@
       h1 Informes y documentos
     
     row.justify-content-center.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos="fade-down")
         .cajon-b.color-acento-contenido.p-3.mb-0
           h3 Los informes y documentos son parte fundamental del proceso que se llevará a cabo.
     
-    #t6_1.titulo-segundo.mt-4
+    #t6_1.titulo-segundo.mt-4(data-aos="flip-up")
       h2 6.1 Informe
 
-    .row.mb-5.align-items-center
-      .col-lg-6.mb-4.mb-lg-0
+    .row.mb-5.align-items-center(data-aos="fade")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-0 Es un escrito que tiene como resultado anunciar y dar balance de una situación desde diferentes perspectivas, es decir, de algo sobre lo que se está efectuando una investigación exhaustiva; entre las principales características que debe tener el informe, la primera es la claridad en el lenguaje para que tenga comprensión por parte del lector, la segunda característica del informe escrito es la objetividad en reflejar los hechos basados en información comprobable, la tercera característica es la estructuración respondiendo a criterios narrativos y presentar una estructura mínima en cuanto introducción, desarrollo y conclusiones.
       .col-lg-1
-      .col-lg-4
+      .col-lg-4(data-aos="flip-down")
         figure.myN01
           img(src='@/assets/curso/tema6/img01.svg', alt='')
     
-    #t6_2.titulo-segundo.mt-4
+    #t6_2.titulo-segundo.mt-4(data-aos="flip-up")
       h2 6.2 Tipos de informes
     
-    p.mb-5
+    p.mb-5(data-aos="fade")
       | En la contemporaneidad en la cual recurre el mundo moderno,  para cualquier administrativo o comercial de una empresa debe ser importante saber dirigir, saber presidir una reunión, dictar conferencias, también lo es escribir informes, luego entonces, es imprescindible desarrollar estas habilidades de comunicación escrita en este tipo de personal.
       br
       br
       | Por tanto, la calidad de la información que se transmite en los informes debe ser tal que facilite la comprensión del texto, que transmita el mensaje apropiado y que facilite el flujo de trabajo en los procesos de la empresa.
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
       div(titulo="Según el contenido")
         p.mb-4  Se pueden encontrar 3 grandes tipos de informes de acuerdo con la especificidad del contenido del informe.
         ul.lista-ul--color

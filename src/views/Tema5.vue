@@ -8,9 +8,9 @@
         span 5
       h1 Técnicas de evaluación
     
-    p.mb-5 Bernal (2.000) muestra las siguientes técnicas de evaluación de la información que pueden efectuarse:
+    p.mb-5(data-aos="fade") Bernal (2.000) muestra las siguientes técnicas de evaluación de la información que pueden efectuarse:
 
-    .tarjeta.tarjeta--azul.BGYenny.p-4.mb-5
+    .tarjeta.tarjeta--azul.BGYenny.p-4.mb-5(data-aos="fade-up")
       SlyderA
         .row.justify-content-center.m-4
           .col-md-11
@@ -24,8 +24,8 @@
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
                 .col-md-12
-                  h3 Análisis de Pareto:
-                  p Análisis de Pareto: es una técnica para analizar orígenes de problemas y las procedencias de sus causas, de igual forma, es una técnica que permite catalogar gráficamente la información de mayor a menor preeminencia, con el fundamento de identificar los problemas más trascendentales en los que se debe enfocar y solucionar, tiene como procedimiento generalizado:
+                  h3 Análisis de Pareto
+                  p Es una técnica para analizar orígenes de problemas y las procedencias de sus causas, de igual forma, es una técnica que permite catalogar gráficamente la información de mayor a menor preeminencia, con el fundamento de identificar los problemas más trascendentales en los que se debe enfocar y solucionar, tiene como procedimiento generalizado:
                   ul.lista-ul--color.CT10
                     li
                       i.fas.fa-check
@@ -68,17 +68,17 @@
               .row.justify-content-center.m-4
                 .col-md-12
                   h3 Gráficas de control
-                  p Gráficas de control se recurren a ellas cuando existe la necesidad de control de calidad de procesos. Según Levin y Rubin (1996) “estas graficas reciben el nombre de diagramas de control y son de varios tipos:
+                  p Se recurren a ellas cuando existe la necesidad de control de calidad de procesos. Según Levin y Rubin (1996) “estas graficas reciben el nombre de diagramas de control y son de varios tipos:
                   ul.lista-ul--color.CT10
                     li
                       i.fas.fa-check
-                      p Diagramas  o diagramas de control para medias de procesos.
+                      p Diagramas  o diagramas de control para medias de procesos.
                     li
                       i.fas.fa-check
-                      p Diagramas R o diagramas de control para variabilidad en los procesos.
+                      p Diagramas #[em R] o diagramas de control para variabilidad en los procesos.
                     li
                       i.fas.fa-check
-                      p Diagramas  o diagramas de control para atributos.(p 528)
+                      p Diagramas √ o diagramas de control para atributos.(p 528)
 
         .row.justify-content-center.m-4
           .col-md-11
@@ -93,7 +93,7 @@
               .row.justify-content-center.m-4
                 .col-md-12
                   h3 Distribución de frecuencias y representaciones gráficas
-                  p de acuerdo con Mason y Lind (1994) es el conjunto de datos en categorías que muestran el número de observaciones de cada categoría, en otras palabras, una distribución de frecuencias indica el número de veces que ocurre cada valor o dato en una tabla de resultados. (p.24)
+                  p De acuerdo con Mason y Lind (1994) es el conjunto de datos en categorías que muestran el número de observaciones de cada categoría, en otras palabras, una distribución de frecuencias indica el número de veces que ocurre cada valor o dato en una tabla de resultados. (p.24)
                   p Histogramas son medios gráficos para la representación de la distribución de frecuencias
                   p.mb-4 Polígonos de frecuencia son representaciones gráficas que reflejan  una imagen veloz de los más importantes rasgos de los datos de una distribución de frecuencias.
                 .col-md-10
@@ -114,7 +114,7 @@
               .row.justify-content-center.m-4
                 .col-md-12
                   h3 Medidas de tendencia central
-                  p son medidas estadísticas que pretenden resumir en un solo valor a un conjunto de valores. Se reconocen de manera universal las siguientes:
+                  p Son medidas estadísticas que pretenden resumir en un solo valor a un conjunto de valores. Se reconocen de manera universal las siguientes:
                   ul.lista-ul--color.CT10
                     li
                       i.fas.fa-check
@@ -139,7 +139,8 @@
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
                 .col-md-12
-                  p Medidas de dispersión hablan cómo se dividen los datos en torno a una de las medidas de tendencia central conceptuadas anteriormente, y son un valor añadido a estas últimas para representar más fidedignamente un conjunto de datos. Dentro de las medidas de dispersión más reconocidas están:
+                  h3 Medidas de dispersión
+                  p Hablan cómo se dividen los datos en torno a una de las medidas de tendencia central conceptuadas anteriormente, y son un valor añadido a estas últimas para representar más fidedignamente un conjunto de datos. Dentro de las medidas de dispersión más reconocidas están:
                   ul.lista-ul--color.CT10
                     li
                       i.fas.fa-check
@@ -153,7 +154,8 @@
             .bg-white.br01.p-4
               .row.justify-content-center.m-4
                 .col-md-12
-                  p Pruebas estadísticas son diversas las pruebas estadísticas  que pueden aplicarse al conjunto de datos, a continuación se relacionan algunas de las más utilizadas
+                  h3 Pruebas estadísticas
+                  p Son diversas las pruebas estadísticas  que pueden aplicarse al conjunto de datos, a continuación se relacionan algunas de las más utilizadas
                   ul.lista-ul--color.CT10
                     li
                       i.fas.fa-check

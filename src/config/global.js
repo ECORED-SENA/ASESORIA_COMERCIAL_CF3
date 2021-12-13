@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Manejo de la información',
     descripcionCurso:
-      'En este documento se comprenderá el manejo de la información y sus tipos de análisis, los cuales son necesarios para la toma de decisiones, dirigidos a minimizar la incertidumbre y el riesgo en el mercado. Igualmente se abordarán las variedades de presentación de la información de mercados, su procesamiento, desde su recolección, depuración, análisis y construcción de conocimiento de mercados.',
+      'En este componente formativo se comprenderá el manejo de la información y sus tipos de análisis, los cuales son necesarios para la toma de decisiones, dirigidos a minimizar la incertidumbre y el riesgo en el mercado. Igualmente se abordarán las variedades de presentación de la información de mercados, su procesamiento, desde su recolección, depuración, análisis y construcción de conocimiento de mercados.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -68,7 +68,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Tipos de variables',
+            titulo: 'Tipos de variables en el análisis de datos',
             hash: 't2_1',
           },
           {
@@ -311,7 +311,7 @@ export default {
     },
     {
       referencia:
-        'Samperi Hernández Roberto, 2.006, Metodología de la investigación. Editorial Mc Graw Hill',
+        'Samperi Hernández Roberto, 2.006, Metodología de la investigación. Editorial Mc Graw Hill.',
     },
     {
       referencia:
@@ -327,7 +327,7 @@ export default {
     {
       termino: 'Encuesta',
       significado:
-        'las encuestas son un método de investigación y recopilación de datos utilizados para obtener información a un grupo de individuos sobre diversos temas',
+        'las encuestas son un método de investigación y recopilación de datos utilizados para obtener información a un grupo de individuos sobre diversos temas.',
     },
     {
       termino: 'Entrevista',
@@ -348,7 +348,7 @@ export default {
     },
     {
       texto:
-        'Questionpro (2021) cuales son los tipos de variables de la información',
+        'Questionpro (2021) Cuáles son los tipos de variables en una investigación.',
       tipo: 'Página web',
       link:
         'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
@@ -357,16 +357,17 @@ export default {
       texto:
         'Espinoza F. (2018). Las variables y su operacionalización en la investigación educativa. Scielo.',
       tipo: 'Página web',
-      link: 'http://www.scielo.org.pe/pdf/biblios/n75/a05n75.pdf',
+      link:
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039',
     },
     {
-      texto: 'Universidad del sur.(2.018), Análisis de datos',
+      texto: 'Universidad del sur.(2.018), Análisis de datos.',
       tipo: 'Página web',
       link:
         'https://sites.google.com/site/tecnicasdeinvestigaciond38/metodos-estadisticos/1-1-analisis-de-datos',
     },
     {
-      texto: 'Equipo editorial etece. (2021) Concepto, informes',
+      texto: 'Equipo editorial etece. (2021) Concepto, informes.',
       tipo: 'Página web',
       link: 'https://concepto.de/informe/',
     },
@@ -471,6 +472,16 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
